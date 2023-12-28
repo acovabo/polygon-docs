@@ -58,13 +58,13 @@ Bor is the Block producer node and layer for the Polygon Network. It is based on
 
 This section guides you through the following topics:
 
-* [Validator responsibilities](/pos/design/validator/responsibilities.md)
+* [Validator responsibilities](https://docs.polygon.technology/pos/operate-node/validator/responsibilities/)
 * Joining the network as a validator:
-  * [Start and run the nodes with Ansible](/pos/validator/run-validator/ansible.md)
-  * [Start and run the nodes with binaries](/pos/validator/run-validator/binaries.md)
+  * [Start and run the nodes with Ansible](https://docs.polygon.technology/pos/operate-node/validator/run-validator/ansible/)
+  * [Start and run the nodes with binaries](https://docs.polygon.technology/pos/operate-node/validator/run-validator/binaries/)
   * [Stake as a validator](/pos/validator/validator-staking-operations.md)
 * Maintaining your validator nodes:
-  * [Change the signer address](/pos/validator/change-signer-address.md)
+  * [Change the signer address](https://docs.polygon.technology/pos/operate-node/validator/change-signer-address/)
   * [Change the commission](/pos/validator/validator-commission-operations.md)
 
 Community assistance:
