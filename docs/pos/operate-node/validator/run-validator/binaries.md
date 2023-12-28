@@ -45,7 +45,7 @@ Here are a few instructions on how to configure ports for sentry and validator n
 
 This guide will walk you through running a Polygon validator node from binaries.
 
-For system requirements, follow the [Validator Node System Requirements](/pos/validator/validator-node-system-requirements.md) guide.
+For system requirements, follow the [Validator Node System Requirements](https://docs.polygon.technology/pos/operate-node/validator/validator-node-system-requirements/) guide.
 
 !!!caution
     
